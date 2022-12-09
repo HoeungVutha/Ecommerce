@@ -1,0 +1,471 @@
+Manifest-Version: 1.0
+Class-Path: /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.spring
+ framework.boot/spring-boot-starter-logging/1.5.15.RELEASE/3a0d1b63705
+ bb75ac54884c6c169b1e1908f1375/spring-boot-starter-logging-1.5.15.RELE
+ ASE.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.springfra
+ mework.boot/spring-boot-autoconfigure/1.5.15.RELEASE/9cb093e335fc58e6
+ 1581edcb959813b62731ef8e/spring-boot-autoconfigure-1.5.15.RELEASE.jar
+  /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grails/grails-co
+ re/3.3.8/d535a1f07ed1a1ce388bc18c8b63a3f3abd1aeee/grails-core-3.3.8.j
+ ar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.springframewor
+ k.boot/spring-boot-starter-actuator/1.5.15.RELEASE/2f2e793c6c4592d99e
+ 58cf0668d1fcf2a84247f2/spring-boot-starter-actuator-1.5.15.RELEASE.ja
+ r /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.springframework
+ .boot/spring-boot-starter-tomcat/1.5.15.RELEASE/4e1bf3cd8480137b32c61
+ d6f0fb54a4b81406a80/spring-boot-starter-tomcat-1.5.15.RELEASE.jar /C:
+ /Users/pc/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-bo
+ ot/3.3.8/173becb00d5a1d7cb1f1a44533d9ca8efd9843a/grails-web-boot-3.3.
+ 8.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grails/grai
+ ls-logging/3.3.8/2c8647c42d85b7708d239ba3b2c2b422514f4fe9/grails-logg
+ ing-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.gra
+ ils/grails-plugin-rest/3.3.8/8c6bc7985e3941e60336443e9f833b29ec573451
+ /grails-plugin-rest-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/f
+ iles-2.1/org.grails/grails-plugin-databinding/3.3.8/5dfc9e914c81c413e
+ bf432e1c5459794ce673291/grails-plugin-databinding-3.3.8.jar /C:/Users
+ /pc/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-i18n/
+ 3.3.8/a01c648c61520a89dcbe57b57656ed8d98995852/grails-plugin-i18n-3.3
+ .8.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grails/gra
+ ils-plugin-services/3.3.8/3cb9c7dfc54107346e6deaffcb144f3019096cfa/gr
+ ails-plugin-services-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/
+ files-2.1/org.grails/grails-plugin-url-mappings/3.3.8/4f5727cb0224d23
+ 640a9483503c837c1cfeb7e5e/grails-plugin-url-mappings-3.3.8.jar /C:/Us
+ ers/pc/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-in
+ terceptors/3.3.8/4230f5e53d8c50415f70e84cfc283bbe4a3e73b1/grails-plug
+ in-interceptors-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/files
+ -2.1/org.grails.plugins/cache/4.0.0/72be24e2f8b3e5407048f5cc5186dcd32
+ e8de841/cache-4.0.0.jar /C:/Users/pc/.gradle/caches/modules-2/files-2
+ .1/org.grails.plugins/async/3.3.2/849be6dcabfba176078915404451c4b4479
+ c6d49/async-3.3.2.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1
+ /org.grails.plugins/scaffolding/3.4.1/3794a2154aa473fd2281e1e36de3988
+ 15a63e740/scaffolding-3.4.1.jar /C:/Users/pc/.gradle/caches/modules-2
+ /files-2.1/org.grails.plugins/events/3.3.2/c43aed0886464bc62b8ef2c496
+ 3ea1bedeb19e6/events-3.3.2.jar /C:/Users/pc/.gradle/caches/modules-2/
+ files-2.1/org.grails.plugins/hibernate5/6.1.10/6929b4844ceaa1f933a1cf
+ 74e32cca9c007d2bb8/hibernate5-6.1.10.jar /C:/Users/pc/.gradle/caches/
+ modules-2/files-2.1/org.hibernate/hibernate-core/5.1.5.Final/28366d16
+ 1d448e82370e5bbd871eb2835ba0fb7b/hibernate-core-5.1.5.Final.jar /C:/U
+ sers/pc/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gsp/3.3
+ .1/7b40598abe73d8535b2dd4503467d5c0c415b7b5/gsp-3.3.1.jar /C:/Users/p
+ c/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.1
+ 6/6088b7a25188ab4b3ab865422a8ec77ade29236/mysql-connector-java-8.0.16
+ .jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/com.ecoinsoft/co
+ re-backend/3.3.49/7ba4a881dc4ac5d954e3593b927dcd135fb6ba69/core-backe
+ nd-3.3.49.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.gla
+ ssfish.web/el-impl/2.1.2-b03/6bab1211b6e6b191fdbf06067bd05d2f75a62ac0
+ /el-impl-2.1.2-b03.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.
+ 1/org.apache.tomcat/tomcat-jdbc/8.5.32/9d2bf02f75c1f72b5346b60263d44b
+ 1a1ab8da43/tomcat-jdbc-8.5.32.jar /C:/Users/pc/.gradle/caches/modules
+ -2/files-2.1/ch.qos.logback/logback-classic/1.1.11/ccedfbacef4a6515d2
+ 983e3f89ed753d5d4fb665/logback-classic-1.1.11.jar /C:/Users/pc/.gradl
+ e/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/f8c32b13
+ ff142a513eeb5b6330b1588dcb2c0461/jcl-over-slf4j-1.7.25.jar /C:/Users/
+ pc/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/a
+ f5364cd6679bfffb114f0dec8a157aaa283b76/jul-to-slf4j-1.7.25.jar /C:/Us
+ ers/pc/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/
+ 1.7.25/a87bb47468f47ee7aabbd54f93e133d4215769c3/log4j-over-slf4j-1.7.
+ 25.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.springfram
+ ework.boot/spring-boot/1.5.15.RELEASE/79126cdbd541d1fd9a1497efddb0084
+ 8bf7b201/spring-boot-1.5.15.RELEASE.jar /C:/Users/pc/.gradle/caches/m
+ odules-2/files-2.1/org.codehaus.groovy/groovy/2.4.15/74b7e0b99526c569
+ e3a59cb84dbcc6204d601ee6/groovy-2.4.15.jar /C:/Users/pc/.gradle/cache
+ s/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f
+ 8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar /C:/Users/pc/.gradle/caches
+ /modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.
+ 1-api/1.0.0.Final/5e731d961297e5a07290bfaf3db1fbc8bbbf405a/hibernate-
+ jpa-2.1-api-1.0.0.Final.jar /C:/Users/pc/.gradle/caches/modules-2/fil
+ es-2.1/com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap
+ -lru/1.4.2/2eaf3d3c9746d526ff7e5b93931d482c3887e6ac/concurrentlinkedh
+ ashmap-lru-1.4.2.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/
+ org.springframework/spring-core/4.3.18.RELEASE/4acbce682c3dfe38181d57
+ b7e0792e2cc21e4f77/spring-core-4.3.18.RELEASE.jar /C:/Users/pc/.gradl
+ e/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.18.REL
+ EASE/b6b7938f7d8ba412b6663a8b950592557c2d996e/spring-tx-4.3.18.RELEAS
+ E.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.springframe
+ work/spring-beans/4.3.18.RELEASE/27460686b16b3ffee60bb3365cd56bba6ed8
+ 60ff/spring-beans-4.3.18.RELEASE.jar /C:/Users/pc/.gradle/caches/modu
+ les-2/files-2.1/org.springframework/spring-context/4.3.18.RELEASE/d30
+ 2953b509e6d380856e245bf80c29770c08c98/spring-context-4.3.18.RELEASE.j
+ ar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grails/grails-
+ bootstrap/3.3.8/d5380ef15dff1a08b830ced9b6d9bbac4042a8cf/grails-boots
+ trap-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.gr
+ ails/grails-spring/3.3.8/651f0a45cbc62c9c17afb25607e6335c715a41d5/gra
+ ils-spring-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/
+ org.grails/grails-datastore-core/6.1.10.RELEASE/b4d509cb463f0d945773c
+ bc27d4be2dc2cc943e3/grails-datastore-core-6.1.10.RELEASE.jar /C:/User
+ s/pc/.gradle/caches/modules-2/files-2.1/xalan/serializer/2.7.2/24247f
+ 3bb052ee068971393bdb83e04512bb1c3c/serializer-2.7.2.jar /C:/Users/pc/
+ .gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-bo
+ ot-starter/1.5.15.RELEASE/5b4419f4c8960eafba0b4f588b27dbbde9ea9abd/sp
+ ring-boot-starter-1.5.15.RELEASE.jar /C:/Users/pc/.gradle/caches/modu
+ les-2/files-2.1/org.springframework.boot/spring-boot-actuator/1.5.15.
+ RELEASE/85be178d2300533b477127614a18fdba0929fa24/spring-boot-actuator
+ -1.5.15.RELEASE.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/o
+ rg.apache.tomcat.embed/tomcat-embed-core/8.5.32/6bc6896200146010cc466
+ 6bdc6b9b0cbb453ee22/tomcat-embed-core-8.5.32.jar /C:/Users/pc/.gradle
+ /caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8
+ .5.32/e4fd0ee015d83fa1c5ec93ff1d05bdaf9a4480c5/tomcat-embed-el-8.5.32
+ .jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.apache.tomca
+ t.embed/tomcat-embed-websocket/8.5.32/ea5302e378f1449d4e5dda79e8d810c
+ 1e7931f91/tomcat-embed-websocket-8.5.32.jar /C:/Users/pc/.gradle/cach
+ es/modules-2/files-2.1/org.grails/grails-web-common/3.3.8/b31f5b9ea65
+ cdb0640cecf0b7ae6e20de617aad7/grails-web-common-3.3.8.jar /C:/Users/p
+ c/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/3.3.8/4aa7
+ 94850b39b2359652e1ae0cbe151c25ed48c/grails-web-3.3.8.jar /C:/Users/pc
+ /.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controll
+ ers/3.3.8/7f0c6309c03c0b844e83161451f59ddda2079f48/grails-plugin-cont
+ rollers-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org
+ .grails/grails-plugin-datasource/3.3.8/a95588e21436d6d3b1baa8cedae2a0
+ 6c52a7bf0c/grails-plugin-datasource-3.3.8.jar /C:/Users/pc/.gradle/ca
+ ches/modules-2/files-2.1/org.grails.plugins/converters/3.3.1/afc1ea5f
+ a7d7d52e83017856fa5a651d38145048/converters-3.3.1.jar /C:/Users/pc/.g
+ radle/caches/modules-2/files-2.1/org.grails/grails-validation/3.3.8/e
+ a17d94d6f6943742cc56ecc4614ff5ce1b05d27/grails-validation-3.3.8.jar /
+ C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.javassist/javassis
+ t/3.21.0-GA/598244f595db5c5fb713731eddbb1c91a58d959b/javassist-3.21.0
+ -GA.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grails/gr
+ ails-async/3.3.2/df2d4d6d96161b1105298a951c6fff31dd52e1e9/grails-asyn
+ c-3.3.2.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grail
+ s.plugins/fields/2.2.8/bfb21b4e1c05db9f105159d12bcac0389b1ac464/field
+ s-2.2.8.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grail
+ s/grails-events/3.3.2/a4c70fc8c391d8060d715ea68bfe4ff87761fd02/grails
+ -events-3.3.2.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org
+ .grails/grails-events-transform/3.3.2/645c93ccb03ea27a23d6ac25265b01e
+ 5a63b9525/grails-events-transform-3.3.2.jar /C:/Users/pc/.gradle/cach
+ es/modules-2/files-2.1/org.grails/grails-events-compat/3.3.2/1250482a
+ c83841a19c75b150777a2d2c28592d33/grails-events-compat-3.3.2.jar /C:/U
+ sers/pc/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastor
+ e-web/6.1.10.RELEASE/699f0312c2f584da0d5cc71fcf9f04410fbedec5/grails-
+ datastore-web-6.1.10.RELEASE.jar /C:/Users/pc/.gradle/caches/modules-
+ 2/files-2.1/org.grails/grails-datastore-gorm-support/6.1.10.RELEASE/2
+ bb769978840f8ac440252c03ae5dd6e472cc07e/grails-datastore-gorm-support
+ -6.1.10.RELEASE.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/o
+ rg.grails/grails-datastore-gorm-hibernate5/6.1.10.RELEASE/e936dddf7b7
+ 6f8d21d21ae1e4b995bd1f0e02ddf/grails-datastore-gorm-hibernate5-6.1.10
+ .RELEASE.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.spri
+ ngframework/spring-orm/4.3.18.RELEASE/f5f7cef67e9729f0f96a89441ae2498
+ 0c7339da8/spring-orm-4.3.18.RELEASE.jar /C:/Users/pc/.gradle/caches/m
+ odules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.2.Final/3789d0
+ 0e859632e6c6206adc0c71625559e6e3b0/jboss-logging-3.3.2.Final.jar /C:/
+ Users/pc/.gradle/caches/modules-2/files-2.1/antlr/antlr/2.7.7/83cd2cd
+ 674a217ade95a4bb83a8a14f351f48bd0/antlr-2.7.7.jar /C:/Users/pc/.gradl
+ e/caches/modules-2/files-2.1/org.apache.geronimo.specs/geronimo-jta_1
+ .1_spec/1.1.1/aabab3165b8ea936b9360abbf448459c0d04a5a4/geronimo-jta_1
+ .1_spec-1.1.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org
+ .jboss/jandex/2.0.3.Final/bfc4d6257dbff7a33a357f0de116be6ff951d849/ja
+ ndex-2.0.3.Final.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/
+ com.fasterxml/classmate/1.3.4/3d5f48f10bbe4eb7bd862f10c0583be2e0053c6
+ /classmate-1.3.4.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/
+ dom4j/dom4j/1.6.1/5d3ccc056b6f056dbf0dddfdf43894b9065a8f94/dom4j-1.6.
+ 1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.hibernate.c
+ ommon/hibernate-commons-annotations/5.0.1.Final/71e1cff3fcb20d3b3af4f
+ 3363c3ddb24d33c6879/hibernate-commons-annotations-5.0.1.Final.jar /C:
+ /Users/pc/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-gs
+ p-taglib/3.3.1/28e0c0776c9f5c6109b79a89860161db3369fe81/grails-web-gs
+ p-taglib-3.3.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/co
+ mmons-lang/commons-lang/2.6/ce1edb914c94ebc388f086c6827e8bdeec71ac2/c
+ ommons-lang-2.6.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/o
+ rg.grails/grails-plugin-codecs/3.3.8/55f4d0afad4134069100cdb952fb1561
+ 29ad1af1/grails-plugin-codecs-3.3.8.jar /C:/Users/pc/.gradle/caches/m
+ odules-2/files-2.1/org.grails/grails-web-jsp/3.3.1/e45c3adb5f6fc6c776
+ 1227457d09114ec41c55fe/grails-web-jsp-3.3.1.jar /C:/Users/pc/.gradle/
+ caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.6.1/d0
+ 6d46ecfd92ec6d0f3b423b4cd81cb38d8b924/protobuf-java-3.6.1.jar /C:/Use
+ rs/pc/.gradle/caches/modules-2/files-2.1/org.grails.plugins/aws-sdk-s
+ 3/2.2.4/d7e25dbd9c385b1fe2a71fadc0b7d43e4775d4ac/aws-sdk-s3-2.2.4.jar
+  /C:/Users/pc/.gradle/caches/modules-2/files-2.1/commons-net/commons-
+ net/3.6/b71de00508dcb078d2b24b5fa7e538636de9b3da/commons-net-3.6.jar 
+ /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grails.plugins/sp
+ ring-security-rest/2.0.0.RC1/f42357a6a5b7725e23d7126ad9afcf353911015d
+ /spring-security-rest-2.0.0.RC1.jar /C:/Users/pc/.gradle/caches/modul
+ es-2/files-2.1/org.grails.plugins/spring-security-rest-redis/2.0.0.RC
+ 1/c3bfe51a21a1128cc1ee7864e275763dec9a97d8/spring-security-rest-redis
+ -2.0.0.RC1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.gr
+ ails.plugins/redis/2.0.5/b6e08ff97c0f3302a5f3b8ebd46c97a2a19db5a9/red
+ is-2.0.5.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grai
+ ls.plugins/mail/2.0.0/e329ffe5c97f6949c61f0107b1b7e3d720ef2052/mail-2
+ .0.0.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grails/g
+ rails-datastore-rest-client/6.1.10.RELEASE/7854404e6dcc3b03fb24ea9c37
+ fb419f1e568eb5/grails-datastore-rest-client-6.1.10.RELEASE.jar /C:/Us
+ ers/pc/.gradle/caches/modules-2/files-2.1/org.imgscalr/imgscalr-lib/4
+ .2/e2838f7119361511ef7d54fe0d502bf07f3325eb/imgscalr-lib-4.2.jar /C:/
+ Users/pc/.gradle/caches/modules-2/files-2.1/org.grails.plugins/http-b
+ uilder-helper/1.1.0/39bd3b3fd2af3d9915ac46a60a1bb16e2b863984/http-bui
+ lder-helper-1.1.0.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1
+ /com.drewnoakes/metadata-extractor/2.8.1/120630f96316e0f173aedf0c88bb
+ 06c5e146ad96/metadata-extractor-2.8.1.jar /C:/Users/pc/.gradle/caches
+ /modules-2/files-2.1/org.ocpsoft.prettytime/prettytime/4.0.0.Final/72
+ bec9d6b648dd4e0b51d15c5008070205613559/prettytime-4.0.0.Final.jar /C:
+ /Users/pc/.gradle/caches/modules-2/files-2.1/org.passay/passay/1.0/d4
+ 83c093cbf1c19ed1e94d599a5ab45cd7d1c8eb/passay-1.0.jar /C:/Users/pc/.g
+ radle/caches/modules-2/files-2.1/io.minio/minio/7.0.2/ec9de532e8542a9
+ 5e70f9c5a24604e9f879219c2/minio-7.0.2.jar /C:/Users/pc/.gradle/caches
+ /modules-2/files-2.1/com.ecoinsoft/simple-generic-controller/1.8.009/
+ c24ffc0868a4685fffc1db8f8388f633513e38ae/simple-generic-controller-1.
+ 8.009.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/com.ecoinso
+ ft/core-cache-plugin/1.0.03/43e1c0f2ee3312e4df3b48430786dcba97660ad5/
+ core-cache-plugin-1.0.03.jar /C:/Users/pc/.gradle/caches/modules-2/fi
+ les-2.1/com.twilio.sdk/twilio/7.45.1/97d638a2aac1ca7c58abfa2bee7bba32
+ 702a1307/twilio-7.45.1.jar /C:/Users/pc/.gradle/caches/modules-2/file
+ s-2.1/org.grails.plugins/quartz/2.0.13/9e0009792644c894ad8070d42dd536
+ 70018f98a6/quartz-2.0.13.jar /C:/Users/pc/.gradle/caches/modules-2/fi
+ les-2.1/javax.el/el-api/2.1.2-b03/1ac087d9d1a632d2ff82fa1e8b6610aca02
+ 5ff2a/el-api-2.1.2-b03.jar /C:/Users/pc/.gradle/caches/modules-2/file
+ s-2.1/org.apache.tomcat/tomcat-juli/8.5.32/c659f0c0bc6e1124bf3461ca51
+ b25724a2335cf6/tomcat-juli-8.5.32.jar /C:/Users/pc/.gradle/caches/mod
+ ules-2/files-2.1/ch.qos.logback/logback-core/1.1.11/88b8df40340eed549
+ fb07e2613879bf6b006704d/logback-core-1.1.11.jar /C:/Users/pc/.gradle/
+ caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12
+ adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar /C:/Users/
+ pc/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/
+ 4.3.18.RELEASE/dd930265a504563d76de79864ae3196f6e9035e0/spring-aop-4.
+ 3.18.RELEASE.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.
+ springframework/spring-expression/4.3.18.RELEASE/64f2270bfd9d615c8c3b
+ 9d94995867f39391ed30/spring-expression-4.3.18.RELEASE.jar /C:/Users/p
+ c/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2
+ .4.15/40865f59469e6b0808c9c304bd17038997220c72/groovy-xml-2.4.15.jar 
+ /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/g
+ roovy-templates/2.4.15/b5cbe971f2950452c1d431ea0135dd8de2d5f58e/groov
+ y-templates-2.4.15.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.
+ 1/org.yaml/snakeyaml/1.17/7a27ea250c5130b2922b86dea63cbb1cc10a660c/sn
+ akeyaml-1.17.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/java
+ x.transaction/jta/1.1/2ca09f0b36ca7d71b762e14ea2ff09d5eac57558/jta-1.
+ 1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/com.fasterxml.j
+ ackson.core/jackson-databind/2.8.11.2/2c5051e8e84d2c16316b758ebf746f9
+ e90bef5a4/jackson-databind-2.8.11.2.jar /C:/Users/pc/.gradle/caches/m
+ odules-2/files-2.1/org.apache.tomcat/tomcat-annotations-api/8.5.32/bc
+ 805a49362036d2705bbe051053f11120869fd/tomcat-annotations-api-8.5.32.j
+ ar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grails/grails-
+ databinding/3.3.8/e3a1cdca8521b71d1e07645ec2bfe34493930c42/grails-dat
+ abinding-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/or
+ g.grails/grails-encoder/3.3.8/abe512a81f4e5369bc88c8c4259e39576a6565b
+ 4/grails-encoder-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/file
+ s-2.1/org.grails/grails-gsp/3.3.1/88115473871aeb898b590958ef2ba8a9cbd
+ 7dbb0/grails-gsp-3.3.1.jar /C:/Users/pc/.gradle/caches/modules-2/file
+ s-2.1/org.springframework/spring-webmvc/4.3.18.RELEASE/67ad7f59830df9
+ 7ab73f8c7ab53ea33ae7dcb68/spring-webmvc-4.3.18.RELEASE.jar /C:/Users/
+ pc/.gradle/caches/modules-2/files-2.1/org.springframework/spring-cont
+ ext-support/4.3.18.RELEASE/d14d5b7c7fd060e345d5aebbe151e27d2c69ba6a/s
+ pring-context-support-4.3.18.RELEASE.jar /C:/Users/pc/.gradle/caches/
+ modules-2/files-2.1/org.grails/grails-web-databinding/3.3.8/3c852dd8c
+ 191eeffbe0c760bda80d97bc67dc5aa/grails-web-databinding-3.3.8.jar /C:/
+ Users/pc/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url
+ -mappings/3.3.8/eeb5dc5408de15afb394a69b3e9f766c45d51a34/grails-web-u
+ rl-mappings-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1
+ /org.grails/grails-web-mvc/3.3.8/425ab101208d3865e9722ae79583bf2d933d
+ 6714/grails-web-mvc-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/f
+ iles-2.1/org.grails/grails-web-gsp/3.3.1/5670ed8376f739528fdb21de0514
+ d2cc22c5a276/grails-web-gsp-3.3.1.jar /C:/Users/pc/.gradle/caches/mod
+ ules-2/files-2.1/org.grails/grails-web-sitemesh/3.3.1/d639808f26ff1e1
+ 6e32cb86129fd847961575abe/grails-web-sitemesh-3.3.1.jar /C:/Users/pc/
+ .gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-mimetypes
+ /3.3.8/6efd7478161e84cd8c08b80465da3df5bbd0b1d3/grails-plugin-mimetyp
+ es-3.3.8.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.grai
+ ls/grails-plugin-validation/3.3.8/b52a0d5ec7d75703677c24d9c759b51ccb4
+ 291b5/grails-plugin-validation-3.3.8.jar /C:/Users/pc/.gradle/caches/
+ modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.3.8/ed5b2
+ 131d09e557784bc454274ddaa3faf848c03/grails-plugin-domain-class-3.3.8.
+ jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.springframewo
+ rk/spring-jdbc/4.3.18.RELEASE/816bc40759cd07ec50b86b1472aa02181338711
+ 4/spring-jdbc-4.3.18.RELEASE.jar /C:/Users/pc/.gradle/caches/modules-
+ 2/files-2.1/org.codehaus.groovy/groovy-sql/2.4.15/591ed2582868cb47fca
+ c04eb50923faf52bfd231/groovy-sql-2.4.15.jar /C:/Users/pc/.gradle/cach
+ es/modules-2/files-2.1/org.grails/grails-datastore-gorm/6.1.10.RELEAS
+ E/e748f1a1100aca901b280e37991d822364c01378/grails-datastore-gorm-6.1.
+ 10.RELEASE.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.ap
+ ache.tomcat.embed/tomcat-embed-logging-log4j/8.5.2/53bdd1eebc73937132
+ 61d178ac096a742423f940/tomcat-embed-logging-log4j-8.5.2.jar /C:/Users
+ /pc/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-go
+ rm-validation/6.1.10.RELEASE/75d8a598a9dbe80069146fdd844efe2a9cd6c35f
+ /grails-datastore-gorm-validation-6.1.10.RELEASE.jar /C:/Users/pc/.gr
+ adle/caches/modules-2/files-2.1/org.grails/scaffolding-core/1.1.1/c79
+ e9bd310896f3afbba331170c54fa2ce7f9a5d/scaffolding-core-1.1.1.jar /C:/
+ Users/pc/.gradle/caches/modules-2/files-2.1/org.springframework/sprin
+ g-web/4.3.18.RELEASE/e41042a70a7d80da52261c1dfc569c7518b70dce/spring-
+ web-4.3.18.RELEASE.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.
+ 1/org.grails/grails-datastore-gorm-hibernate-core/6.1.10.RELEASE/f939
+ 9493d6803451b6380b9b782e6435f7fb9971/grails-datastore-gorm-hibernate-
+ core-6.1.10.RELEASE.jar /C:/Users/pc/.gradle/caches/modules-2/files-2
+ .1/org.hibernate/hibernate-validator/5.3.6.Final/4c730be8bf55a8e9a61e
+ 79a2f2c079abf48b718/hibernate-validator-5.3.6.Final.jar /C:/Users/pc/
+ .gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/2.2.4/128756
+ 2cc3f0ff5439ded6f2949e73ce1c0edaab/javax.el-api-2.2.4.jar /C:/Users/p
+ c/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/3789d9f
+ ada2d3d458c4ba2de349d48780f381ee3/xml-apis-1.4.01.jar /C:/Users/pc/.g
+ radle/caches/modules-2/files-2.1/org.grails/grails-codecs/3.3.8/f4e79
+ 82847a92749a25f31adf972c61b38ed87f8/grails-codecs-3.3.8.jar /C:/Users
+ /pc/.gradle/caches/modules-2/files-2.1/agorapulse.libs/groovy-aws-sdk
+ -util/1.1/cdce98b983286eb419302e6c2d2c25471af721af/groovy-aws-sdk-uti
+ l-1.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/com.amazona
+ ws/aws-java-sdk-s3/1.11.375/f26eea6727082ec95ab5ef1ed64fb993d9f8abfc/
+ aws-java-sdk-s3-1.11.375.jar /C:/Users/pc/.gradle/caches/modules-2/fi
+ les-2.1/org.pac4j/pac4j-core/2.2.1/84de0796e01807cddb057b87bc3a3c24bf
+ 94d87b/pac4j-core-2.2.1.jar /C:/Users/pc/.gradle/caches/modules-2/fil
+ es-2.1/org.pac4j/pac4j-oauth/2.2.1/d8a6b3260e7ce18f7b46aa3f8b15586cc7
+ 1f200b/pac4j-oauth-2.2.1.jar /C:/Users/pc/.gradle/caches/modules-2/fi
+ les-2.1/org.pac4j/pac4j-cas/2.2.1/944f6c4329965f5c7ffae5bb1b6e4271859
+ 8de29/pac4j-cas-2.2.1.jar /C:/Users/pc/.gradle/caches/modules-2/files
+ -2.1/org.jasig.cas.client/cas-client-core/3.5.0/c3e4786985aa2cd12093b
+ a2cf80cd2b03c41c560/cas-client-core-3.5.0.jar /C:/Users/pc/.gradle/ca
+ ches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/4.36/a1939e9871
+ 419c6a2aa80c43627d98d03cea20af/nimbus-jose-jwt-4.36.jar /C:/Users/pc/
+ .gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4
+ b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar /C:/Us
+ ers/pc/.gradle/caches/modules-2/files-2.1/org.grails.plugins/spring-s
+ ecurity-core/3.2.1/787fbf150eed167b226be8cc3d7c84d0370a5eaa/spring-se
+ curity-core-3.2.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1
+ /commons-fileupload/commons-fileupload/1.3.3/4ff14d809195b711fd6bcc87
+ e6777f886730ca1/commons-fileupload-1.3.3.jar /C:/Users/pc/.gradle/cac
+ hes/modules-2/files-2.1/redis.clients/jedis/2.9.0/292bc9cc26553acd3cc
+ cc26f2f95620bf88a04c2/jedis-2.9.0.jar /C:/Users/pc/.gradle/caches/mod
+ ules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8
+ b3fbb64cc505bede8829/gson-2.8.5.jar /C:/Users/pc/.gradle/caches/modul
+ es-2/files-2.1/javax.mail/javax.mail-api/1.5.6/51c7a973efb1123558b62e
+ 95e31ab03cfa00fa7a/javax.mail-api-1.5.6.jar /C:/Users/pc/.gradle/cach
+ es/modules-2/files-2.1/com.sun.mail/javax.mail/1.5.6/ab5daef2f881c42c
+ 8e280cbe918ec4d7fdfd7efe/javax.mail-1.5.6.jar /C:/Users/pc/.gradle/ca
+ ches/modules-2/files-2.1/org.codehaus.groovy.modules.http-builder/htt
+ p-builder/0.7.1/a21771ae3da5ce9f5c4d7a60c1e716666aa2acf9/http-builder
+ -0.7.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/com.adobe.
+ xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.
+ 1.2.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.cryptacul
+ ar/cryptacular/1.0/a7dd8234498f8425c25e983b4d3451d7accb0b5b/cryptacul
+ ar-1.0.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.simple
+ framework/simple-xml/2.7.1/dd91fb744c2ff921407475cb29a1e3fee397d411/s
+ imple-xml-2.7.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/c
+ om.squareup.okhttp3/okhttp/3.13.1/b49cf3799bd473199e96c4fb9987e9e0839
+ 5a1c0/okhttp-3.13.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2
+ .1/com.squareup.okio/okio/1.17.2/78c7820b205002da4d2d137f6f312bd64b3d
+ 6049/okio-1.17.2.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/
+ com.fasterxml.jackson.core/jackson-annotations/2.8.0/45b426f7796b7410
+ 35581a176744d91090e2e6fb/jackson-annotations-2.8.0.jar /C:/Users/pc/.
+ gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-
+ core/2.8.11/876ead1db19f0c9e79c9789273a3ef8c6fd6c29b/jackson-core-2.8
+ .11.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/com.github.sp
+ otbugs/spotbugs-annotations/4.0.0/abd34fe3fbaa18a3a6db81baa7e6a2edfdd
+ 701dd/spotbugs-annotations-4.0.0.jar /C:/Users/pc/.gradle/caches/modu
+ les-2/files-2.1/net.jcip/jcip-annotations/1.0/afba4942caaeaf46aab0b97
+ 6afd57cc7c181467e/jcip-annotations-1.0.jar /C:/Users/pc/.gradle/cache
+ s/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0
+ c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar /C:/Users/pc/.gradle
+ /caches/modules-2/files-2.1/com.bertramlabs.plugins/asset-pipeline-gr
+ ails/2.14.2/78d9651f5fc3dee1fce57cd5b01a18f9e53486b0/asset-pipeline-g
+ rails-2.14.2.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/joda
+ -time/joda-time/2.9.9/f7b520c458572890807d143670c9b24f4de90897/joda-t
+ ime-2.9.9.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/io.json
+ webtoken/jjwt/0.4/61ce246d937a0fd3acf06d3bef5fc9e3933ae812/jjwt-0.4.j
+ ar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.apache.httpcom
+ ponents/httpclient/4.5.6/1afe5621985efe90a92d0fbc9be86271efbe796f/htt
+ pclient-4.5.6.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org
+ .apache.httpcomponents/httpcore/4.4.10/acc54d9b28bdffe4bbde89ed2e4a1e
+ 86b5285e2b/httpcore-4.4.10.jar /C:/Users/pc/.gradle/caches/modules-2/
+ files-2.1/javax.xml.bind/jaxb-api/2.2/d68570e722cffe2000358ce9c661a0b
+ 0bf1ebe11/jaxb-api-2.2.jar /C:/Users/pc/.gradle/caches/modules-2/file
+ s-2.1/org.quartz-scheduler/quartz/2.2.3/d4d8ea088852beeb89f54d3040fe1
+ cbaa8491dcd/quartz-2.2.3.jar /C:/Users/pc/.gradle/caches/modules-2/fi
+ les-2.1/org.codehaus.groovy/groovy-json/2.4.15/f6f6890181821246398cd4
+ 4ba1fdf74f55717697/groovy-json-2.4.15.jar /C:/Users/pc/.gradle/caches
+ /modules-2/files-2.1/org.grails/grails-taglib/3.3.1/772e8b5f992f6602c
+ ab07c7a58ab2924f97eed02/grails-taglib-3.3.1.jar /C:/Users/pc/.gradle/
+ caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.3.1/ca32314
+ 6797a4ff2bb4f630890f4c400a0860395/grails-web-taglib-3.3.1.jar /C:/Use
+ rs/pc/.gradle/caches/modules-2/files-2.1/opensymphony/sitemesh/2.4/fa
+ 84c82cce30a9a632c08dd2277d63993d972cf5/sitemesh-2.4.jar /C:/Users/pc/
+ .gradle/caches/modules-2/files-2.1/commons-validator/commons-validato
+ r/1.5.1/86d05a46e8f064b300657f751b5a98c62807e2a0/commons-validator-1.
+ 5.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/javax.validat
+ ion/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817
+ d5/validation-api-1.1.0.Final.jar /C:/Users/pc/.gradle/caches/modules
+ -2/files-2.1/org.codehaus.groovy/groovy-all/2.4.15/423a17aeb2f64bc6f7
+ 6e8e44265a548bec80fd42/groovy-all-2.4.15.jar /C:/Users/pc/.gradle/cac
+ hes/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kms/1.11.375/5e76f
+ 8d5e38f13bcf2894abf3ca41b07be141fdb/aws-java-sdk-kms-1.11.375.jar /C:
+ /Users/pc/.gradle/caches/modules-2/files-2.1/com.amazonaws/jmespath-j
+ ava/1.11.375/f9657b654647dc4b9feb86146f3430f3a1c55570/jmespath-java-1
+ .11.375.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/com.githu
+ b.scribejava/scribejava-apis/3.3.0/c460fdda054a44139f0f6e1d927ef092dd
+ e36c17/scribejava-apis-3.3.0.jar /C:/Users/pc/.gradle/caches/modules-
+ 2/files-2.1/org.jasig.cas.client/cas-client-support-saml/3.4.1/7d27d7
+ 26aad122dcfa55ac83573e588ff27fb02f/cas-client-support-saml-3.4.1.jar 
+ /C:/Users/pc/.gradle/caches/modules-2/files-2.1/com.github.stephenc.j
+ cip/jcip-annotations/1.0-1/ef31541dd28ae2cefdd17c7ebf352d93e9058c63/j
+ cip-annotations-1.0-1.jar /C:/Users/pc/.gradle/caches/modules-2/files
+ -2.1/net.minidev/json-smart/2.3/7396407491352ce4fa30de92efb158adb76b5
+ b/json-smart-2.3.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/
+ org.bouncycastle/bcpkix-jdk15on/1.55/6392d8cba22b722c6570d660ca0b3921
+ ff1bae4f/bcpkix-jdk15on-1.55.jar /C:/Users/pc/.gradle/caches/modules-
+ 2/files-2.1/net.sf.ehcache/ehcache/2.10.5/74c1ec0a88bf20a14edb1b30a92
+ b4c33cc6ea6b0/ehcache-2.10.5.jar /C:/Users/pc/.gradle/caches/modules-
+ 2/files-2.1/org.springframework.security/spring-security-core/4.2.7.R
+ ELEASE/3b74ac31cb84d1cab6dcc55887391dfe593a30f6/spring-security-core-
+ 4.2.7.RELEASE.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org
+ .springframework.security/spring-security-web/4.2.7.RELEASE/d15e32de9
+ efe00355f8cdd7cf61d98ae886dcd94/spring-security-web-4.2.7.RELEASE.jar
+  /C:/Users/pc/.gradle/caches/modules-2/files-2.1/commons-io/commons-i
+ o/2.2/83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a/commons-io-2.2.jar /C:
+ /Users/pc/.gradle/caches/modules-2/files-2.1/org.apache.commons/commo
+ ns-pool2/2.4.3/e7ab2a5143cb4e0b21d8ca81c265095e4567dd22/commons-pool2
+ -2.4.3.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/javax.acti
+ vation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activa
+ tion-1.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/net.sf.j
+ son-lib/json-lib/2.3/f35340c0a0380141f62c72b76c8fb4bfa638d8c1/json-li
+ b-2.3-jdk15.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/net.s
+ ourceforge.nekohtml/nekohtml/1.9.22/4f54af68ecb345f2453fb6884672ad084
+ 14154e3/nekohtml-1.9.22.jar /C:/Users/pc/.gradle/caches/modules-2/fil
+ es-2.1/xml-resolver/xml-resolver/1.2/3d0f97750b3a03e0971831566067754b
+ a4bfd68c/xml-resolver-1.2.jar /C:/Users/pc/.gradle/caches/modules-2/f
+ iles-2.1/stax/stax-api/1.0.1/49c100caf72d658aca8e58bd74a4ba90fa2b0d70
+ /stax-api-1.0.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/s
+ tax/stax/1.2.0/c434800de5e4bbe1822805be5fb1c32d6834f830/stax-1.2.0.ja
+ r /C:/Users/pc/.gradle/caches/modules-2/files-2.1/xpp3/xpp3/1.1.3.3/6
+ 4f9d2bb88f58ad2a15a4301487d977ee9b4294/xpp3-1.1.3.3.jar /C:/Users/pc/
+ .gradle/caches/modules-2/files-2.1/com.bertramlabs.plugins/asset-pipe
+ line-core/2.14.2/91e427fa721bb38ff18b8b1752b1081f8e90fc76/asset-pipel
+ ine-core-2.14.2.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/j
+ avax.xml.stream/stax-api/1.0-2/d6337b0de8b25e53e81b922352fbea9f9f57ba
+ 0b/stax-api-1.0-2.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1
+ /c3p0/c3p0/0.9.1.1/302704f30c6e7abb7a0457f7771739e03c973e80/c3p0-0.9.
+ 1.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/commons-colle
+ ctions/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe
+ 26d5/commons-collections-3.2.2.jar /C:/Users/pc/.gradle/caches/module
+ s-2/files-2.1/com.github.scribejava/scribejava-core/3.3.0/7a3394ee3f4
+ 8e9cebdc89ffda6065171e5e52421/scribejava-core-3.3.0.jar /C:/Users/pc/
+ .gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c5
+ 92b500269bfde36096641b01238a8350f8aa31/accessors-smart-1.2.jar /C:/Us
+ ers/pc/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0
+ /235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar /C:/User
+ s/pc/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-bea
+ nutils/1.9.3/c845703de334ddc6b4b3cd26835458cb1cba1f3d/commons-beanuti
+ ls-1.9.3.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/net.sf.e
+ zmorph/ezmorph/1.0.6/1e55d2a0253ea37745d33062852fd2c90027432/ezmorph-
+ 1.0.6.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/xerces/xerc
+ esImpl/2.11.0/9bb329db1cfc4e22462c9d6b43a8432f5850e92c/xercesImpl-2.1
+ 1.0.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/org.ow2.asm/a
+ sm/5.0.4/da08b8cce7bbf903602a25a3a163ae252435795/asm-5.0.4.jar /C:/Us
+ ers/pc/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0
+ -android/3679f8e9a5e0544c361a3225a3e7bbd5febe5f29/guava-28.0-android.
+ jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/com.google.guava/
+ failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failurea
+ ccess-1.0.1.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/com.g
+ oogle.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guav
+ a/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-em
+ pty-to-avoid-conflict-with-guava.jar /C:/Users/pc/.gradle/caches/modu
+ les-2/files-2.1/org.checkerframework/checker-compat-qual/2.5.5/435dc3
+ 3e3019c9f019e15f01aa111de9d6b2b79c/checker-compat-qual-2.5.5.jar /C:/
+ Users/pc/.gradle/caches/modules-2/files-2.1/com.google.errorprone/err
+ or_prone_annotations/2.3.2/d1a0c5032570e0f64be6b4d9c90cdeb103129029/e
+ rror_prone_annotations-2.3.2.jar /C:/Users/pc/.gradle/caches/modules-
+ 2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37
+ d7eff77700720999acd9986d/j2objc-annotations-1.3.jar /C:/Users/pc/.gra
+ dle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annot
+ ations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-a
+ nnotations-1.17.jar /C:/Users/pc/.gradle/caches/modules-2/files-2.1/c
+ om.amazonaws/aws-java-sdk-core/1.11.375/73d7613ab951b7391cdca60cea08c
+ 89f2246e29d/aws-java-sdk-core-1.11.375.jar /C:/Users/pc/.gradle/cache
+ s/modules-2/files-2.1/software.amazon.ion/ion-java/1.0.2/ee9dacea7726
+ e495f8352b81c12c23834ffbc564/ion-java-1.0.2.jar /C:/Users/pc/.gradle/
+ caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-d
+ ataformat-cbor/2.8.11/8b9826e16c3366764bfb7ad7362554f0471046c3/jackso
+ n-dataformat-cbor-2.8.11.jar /C:/Users/pc/.gradle/caches/modules-2/fi
+ les-2.1/org.bouncycastle/bcprov-jdk15on/1.55/935f2e57a00ec2c489cbd2ad
+ 830d4a399708f979/bcprov-jdk15on-1.55.jar
+

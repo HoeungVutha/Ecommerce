@@ -1,0 +1,6 @@
+#Thu, 08 Dec 2022 11:44:28 +0700
+
+info.app.version=0.1
+info.app.name=Basic git
+grails.env=development
+info.app.grailsVersion=3.3.8
