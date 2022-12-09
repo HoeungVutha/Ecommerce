@@ -17,6 +17,9 @@ class UrlMappings {
         // Company
         "/api/company"(resources:"Company")
 
+        // Booking
+        "/api/booking"(resources:"Booking")
+
         "/"(view:"/index")
         "500"(view:'/error')
         "404"(view:'/notFound')

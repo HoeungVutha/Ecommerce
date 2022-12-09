@@ -35,6 +35,13 @@ class CompanyController extends SimpleGenericRestfulController<Company>{
         render JSONFormat.respond(company) as JSON
     }
     @Override
+    def show(){
+        Long id = params.long("id")
+        def company = companyService.getCompanyDetail(id)
+
+        render JSONFormat.respond(company) as JSON
+    }
+    @Override
     def update(){
         def requestJson=request.JSON
         def company=Company.get(params.long("id"))

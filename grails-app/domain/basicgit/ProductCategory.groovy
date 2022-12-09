@@ -8,6 +8,7 @@ class ProductCategory {
      String productCountry
      String price
 
+
     Date lastUpdated
     Date dateCreated
     static hasMany = [

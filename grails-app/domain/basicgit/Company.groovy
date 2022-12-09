@@ -8,6 +8,7 @@ class Company {
     String gender
     String address
     String salary
+    String bookingId
 
     Date lastUpdated
     Date dateCreated
